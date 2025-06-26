@@ -1,5 +1,5 @@
 {
-  "name": "@google/gemini-cli",
+  "name": "@heissanjay/gemini-cli",
   "version": "0.1.5",
   "engines": {
     "node": ">=18.0.0"
@@ -8,7 +8,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "repository": "google-gemini/gemini-cli",
+  "repository": "heissanjay/gemini-cli",
   "config": {
     "sandboxImageUri": "us-docker.pkg.dev/gemini-code-dev/gemini-cli/sandbox:0.1.4"
   },
